@@ -1,0 +1,9 @@
+.country{
+    background-color: aquamarine;
+    border: 2px dotted red;
+    border-radius: 15px;
+    margin: 20px;
+}
+.country img{
+width: 50%;
+}
